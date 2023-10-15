@@ -43,8 +43,7 @@ return {
     brown           =            { 0.65, 0.16, 0.16, 1.00 },
     maroon          =            { 0.50, 0.00, 0.00, 1.00 },
     green           =            { 0.00, 0.50, 0.00, 1.00 },
-    olive           =            { 0.50, 0.50, 0.00, 1.00 },
-    hidden          =            { 0.00, 0.00, 0.00, 0.00 }
+    olive           =            { 0.50, 0.50, 0.00, 1.00 }
   },
 
   ImGuiStyleNames = {
@@ -91,11 +90,6 @@ return {
       { ImGuiStyle = ImGuiCol.PlotLinesHovered            , ImGuiStyleShort = "PlotLinesHovered" },
       { ImGuiStyle = ImGuiCol.PlotHistogram               , ImGuiStyleShort = "PlotHistogram" },
       { ImGuiStyle = ImGuiCol.PlotHistogramHovered        , ImGuiStyleShort = "PlotHistogramHovered" },
-      { ImGuiStyle = ImGuiCol.TableHeaderBg               , ImGuiStyleShort = "TableHeaderBg" },
-      { ImGuiStyle = ImGuiCol.TableBorderStrong           , ImGuiStyleShort = "TableBorderStrong" },
-      { ImGuiStyle = ImGuiCol.TableBorderLight            , ImGuiStyleShort = "TableBorderLight" },
-      { ImGuiStyle = ImGuiCol.TableRowBg                  , ImGuiStyleShort = "TableRowBg" },
-      { ImGuiStyle = ImGuiCol.TableRowBgAlt               , ImGuiStyleShort = "TableRowBgAlt" },
       { ImGuiStyle = ImGuiCol.TextSelectedBg              , ImGuiStyleShort = "TextSelectedBg" },
       { ImGuiStyle = ImGuiCol.DragDropTarget              , ImGuiStyleShort = "DragDropTarget" },
       { ImGuiStyle = ImGuiCol.NavHighlight                , ImGuiStyleShort = "NavHighlight" },
@@ -121,7 +115,6 @@ return {
       { ImGuiStyle = ImGuiStyleVar.ItemSpacing            , ImGuiStyleShort = "ItemSpacing" },
       { ImGuiStyle = ImGuiStyleVar.ItemInnerSpacing       , ImGuiStyleShort = "ItemInnerSpacing" },
       { ImGuiStyle = ImGuiStyleVar.IndentSpacing          , ImGuiStyleShort = "IndentSpacing" },
-      { ImGuiStyle = ImGuiStyleVar.CellPadding            , ImGuiStyleShort = "CellPadding" },
       { ImGuiStyle = ImGuiStyleVar.ScrollbarSize          , ImGuiStyleShort = "ScrollbarSize" },
       { ImGuiStyle = ImGuiStyleVar.ScrollbarRounding      , ImGuiStyleShort = "ScrollbarRounding" },
       { ImGuiStyle = ImGuiStyleVar.GrabMinSize            , ImGuiStyleShort = "GrabMinSize" },
