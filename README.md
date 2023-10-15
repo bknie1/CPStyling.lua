@@ -1,6 +1,7 @@
 
 ### Originally created by @Nats-ji
-### Color/Theme Additions by @bknie1
+
+#### Color/Theme Additions by @bknie1
 
 ---
 
